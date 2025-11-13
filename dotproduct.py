@@ -3,3 +3,6 @@ def dot_product(a, b):
 
 print(dot_product([1, 2, 3], [4, 5, 6]))
 
+
+# Modified by Lakshay Ahuja for lab assignment
+
